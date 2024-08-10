@@ -69,6 +69,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ManaS066/ManaS066/output/snake.svg" alt="Snake animation" />
 
 ###
