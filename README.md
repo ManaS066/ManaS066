@@ -1,7 +1,5 @@
  
 <h2 align="left">Hi 👋! My name is Manas and I'm a Enginearing Student, Intrested in Learning Fullstack DataScience and DSA.</h2>
-<h3>📫 How to reach me <a>manasranjanpradhan2004@gmail.com</a></h3>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManaS066&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
